@@ -1,0 +1,3 @@
+Automatic Railway Gate Control System is an innovative solution to manage the railway gates and prevent accidents at level crossings. The system consists of two IR sensors placed at a distance from each other and an Arduino Uno board to control the movement of a DC motor that operates the railway gate.
+
+The IR sensors are placed on opposite sides of the railway track and are used to detect the approaching train. When a train is detected by one of the IR sensors, the Arduino Uno board sends a signal to the DC motor to close the railway gate. Once the train has passed, the gate will automatically reopen.
